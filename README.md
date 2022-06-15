@@ -23,4 +23,4 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ozgurmustafad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ozgurmustafad" /></a></p><br><br>
 
 <h3 align="right">Stats:</h3>
-<p><a href="https://github-readme-stats.vercel.app/api?username=xdlips&show_icons=true&theme=algolia"> <img align="right"
+<p><a href="https://github-readme-stats.vercel.app/api?username=xdlips&show_icons=true&theme=algolia"> <img align="right" height="210" width="210" alt="https://github-readme-stats.vercel.app/api?username=xdlips&show_icons=true&theme=algolia" /></a></p><br><br>
