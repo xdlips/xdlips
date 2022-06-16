@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
 <a href="https://xdlips.github.io">
-<img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
+<img src="https://img.shields.io/badge/Portfolio-D14836?&logoColor=white&color=yellow"/>
 </a>
 <h4>I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></h4>
 <h3>
