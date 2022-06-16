@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Özgür</h1>
-<h3 align="center">I am a young independent developer living in Turkey.</h3>
+<div align="center">
+  <h1>xd. lips</h1>
 
 <img alt="os" src="https://img.shields.io/badge/os-Windows%2011-blue" />
 <a href="https://discord.com/users/271603794645614593">
@@ -13,6 +13,8 @@
 <a href="https://xdlips.github.io">
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
+<h4>I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></h4>
+<h3>
 
 - 🔭 I’m currently working on [ShopBot Discord](https://discord.gg/juPn5tVHay)
 
