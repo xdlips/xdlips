@@ -11,7 +11,7 @@
 <a  href="mailto:me@roxza.me"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
-<a href="https://roxza.me">
+<a href="https://xdlips.github.io">
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
 
