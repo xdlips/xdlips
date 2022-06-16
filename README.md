@@ -2,7 +2,6 @@
 <h3 align="center">I am a young independent developer living in Turkey.</h3>
 
 <img alt="os" src="https://img.shields.io/badge/os-Windows%2011-blue" />
-
 <a href="https://discord.com/users/271603794645614593">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
 </a>
