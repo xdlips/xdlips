@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, I'm Özgür</h1>
 <h3 align="center">I am a young independent developer living in Turkey.</h3>
 
-<img alt="os" src="https://img.shields.io/badge/os-Mac OS-blue" />
+<img alt="os" src="https://img.shields.io/badge/os-Windows%2011-blue" />
 
 <a href="https://discord.com/users/271603794645614593">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
 </a>
 <a href="https://discord.com/users/271603794645614593"><img alt="Discord" src="https://img.shields.io/badge/xdlips%230001-7289DA?style=flat&logo=discord&logoColor=white"/>
 </a>
-<a  href="mailto:me@roxza.me"> 
+<a  href="mailto:pr.xdlips@gmail.com"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
 <a href="https://xdlips.github.io">
