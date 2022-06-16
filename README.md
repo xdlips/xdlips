@@ -36,7 +36,8 @@
 
 <h3 align="left">Stats:</h3>
 
-![xdlips's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdlips&show_icons=true&theme=algolia)
+
+  ![xdlips's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdlips&show_icons=true&theme=algolia)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ozgurmustafad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ozgurmustafad" /></a></p><br><br>
