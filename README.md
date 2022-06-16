@@ -16,13 +16,13 @@
 <h4>I am a backend developer, I interested in discord bots. Currently i'm learning CyberSecurity.</b></h4>
 <h3>
 
-- 🔭 I’m currently working on [ShopBot Discord](https://discord.gg/juPn5tVHay)
+🔭 I’m currently working on [ShopBot Discord](https://discord.gg/juPn5tVHay)
 
-- 🌱 I’m currently learning **Cyber Security**
+🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://xdlips.github.io/](https://xdlips.github.io/)
+👨‍💻 All of my projects are available at [https://xdlips.github.io/](https://xdlips.github.io/)
 
-- 📫 How to reach me **pr.xdlips@gmail.com**
+📫 How to reach me **pr.xdlips@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
