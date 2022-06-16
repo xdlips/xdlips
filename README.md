@@ -24,8 +24,8 @@
 
 📫 How to reach me **pr.xdlips@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/ozgurmustafad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozgurmustafad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xd. lips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xd. lips" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/271603794645614593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/271603794645614593" height="30" width="40" /></a>
