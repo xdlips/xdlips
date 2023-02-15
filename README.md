@@ -13,7 +13,7 @@
 <a href="https://xdlips.github.io">
 <img src="https://img.shields.io/badge/Portfolio-D14836?&logoColor=white&color=yellow"/>
 </a>
-<h4>I am a backend developer, I interested in discord bots. Currently i'm learning CyberSecurity.</b></h4>
+<h4>
 <h3>
 
 🔭 I’m currently working on [Nothing](https://discord.gg/qWA6PusJ)
