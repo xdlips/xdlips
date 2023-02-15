@@ -16,9 +16,9 @@
 <h4>I am a backend developer, I interested in discord bots. Currently i'm learning CyberSecurity.</b></h4>
 <h3>
 
-🔭 I’m currently working on [ShopBot Discord](https://discord.gg/juPn5tVHay)
+🔭 I’m currently working on [Nothing](https://discord.gg/qWA6PusJ)
 
-🌱 I’m currently learning **Cyber Security**
+🌱 Currently learning **Unity Engine**
 
 👨‍💻 All of my projects are available at [https://xdlips.github.io/](https://xdlips.github.io/)
 
